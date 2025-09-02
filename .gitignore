@@ -1,0 +1,50 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+.cache/
+
+# Local environment
+*.local
+.env
+.env.local
+.env.*.local
+
+# Test coverage
+coverage/
+
+# OS / Editor specific
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Deployment
+.vercel/
+.netlify/
+
+# Archives / Exports
+*.zip
+*.tar.gz
+
+# Optional (ignore lockfiles if team prefers)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
