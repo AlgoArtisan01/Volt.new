@@ -5,8 +5,8 @@ Volt.new is a **dynamic AI-powered platform** that instantly converts your ideas
 Just **describe your idea in plain language**, and Volt will:  
 1️⃣ Generate a complete website using **Google Gemini LLM**  
 2️⃣ Run it live in your browser with **StackBlitz WebContainer**  
-3️⃣ Let you **edit code in real time**  
-4️⃣ Allow you to **download the full source code** as a ZIP  
+3️⃣ Let's you **edit code in real time**  
+4️⃣ Allows you to **download the full source code** as a ZIP  
 
 ✨ Perfect for **developers, designers, and entrepreneurs** who want **rapid prototyping without setup or deployment hassles**.  
 
