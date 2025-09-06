@@ -1,12 +1,14 @@
 # ⚡ Volt.new : AI No-Code Assistant
 
-Volt.new is a **dynamic AI-powered platform** that instantly converts your ideas into fully functional websites.
+#### Volt.new is a **dynamic AI-powered platform** that instantly converts your ideas into fully functional websites.<br>
+<img width="750" height="350" alt="thumbnail" src="https://github.com/user-attachments/assets/4f3d01a1-36cf-4256-be5f-d110e07e7732" />
 
 Just **describe your idea in plain language**, and Volt will:  
-> 1️⃣ Generate a complete website.
-> 2️⃣ Run it live in your browser.  
-> 3️⃣ Let's you edit code in real time.  
-> 4️⃣ Allows you to download the full source code.
+
+> 1️⃣ Generate a complete website  
+> 2️⃣ Run it live in your browser  
+> 3️⃣ Let you edit code in real time  
+> 4️⃣ Download the full source code
 
 💻 Perfect for **developers, designers, and entrepreneurs** who want **rapid prototyping without setup or deployment hassles**.  
 
@@ -47,10 +49,3 @@ Just **describe your idea in plain language**, and Volt will:
 
 For all inquiries, please visit my **GitHub profile bio** — it has links to all my socials and ways to reach me:  
 👉 [GitHub Profile](https://github.com/AlgoArtisan01)  
-
-
----
-
-⚡ **Volt.new** — *Build websites at the speed of thought.*
-
-
